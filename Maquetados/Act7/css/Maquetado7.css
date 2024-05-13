@@ -1,0 +1,52 @@
+* {
+    padding: 2px;
+    margin: 0;
+}
+
+body {
+    padding: 2px;
+    margin: 0;
+}
+
+.Encabezado {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Encabezado1,
+.Encabezado2 {
+    display: flex;
+    align-items: center; 
+}
+
+.letra{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 800%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+footer {
+    margin-top: 350px;
+    text-align: center;
+}
+
+.patas {
+    display: flex;
+    justify-content: center;
+}

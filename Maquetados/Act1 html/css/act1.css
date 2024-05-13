@@ -1,0 +1,155 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+body {
+  margin: auto;
+  }
+  .squartbig {
+    border-style: solid;
+    border-width: .1px;
+    border-color: black;
+    background-color: rgb(76, 225, 111);
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 1000px;
+    justify-content: center;  
+    justify-content: space-between;
+}
+  
+  .squart_First {
+    border-style: solid;
+    border-width: .1px;
+    border-color: rgb(255, 11, 251);
+    background-color: white;
+    align-items: center;
+    height: 70px;
+    width: 160px;
+    justify-content: center;
+    display: flex;
+  }
+  .cabezonxd{
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 1000px;
+    background-color: rgb(60, 169, 208);
+    border-style: solid;
+    justify-content: center;
+    justify-content: space-between;
+    border-width: 1px;
+  }
+  .Banner{
+    display: flex;
+    height: 280px;
+    width: 800px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    border-width: 1px;
+    justify-content: center;
+    align-items: center;
+  }
+  .for_log{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: aliceblue;
+    width: 180px;
+    height: 70px;
+  }
+  .for_login{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: aliceblue;
+    width: 180px;
+    height: 70px
+
+  }
+  .for_form{
+    margin-bottom: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: aliceblue;
+    width: 180px;
+    height: 70px
+
+  }
+  .Principal{
+    display: flex;
+    background-color: rgb(171, 176, 173);
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 1000px;
+    height: 500px;
+  }
+  .aside{
+    align-items: center;
+    width: 235px;
+    height: 480px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(251, 255, 31);
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Art{
+    width: 500px;
+    height: 480px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(251, 255, 31);
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Patas{
+    display: flex;
+    background-color: rgb(252, 211, 77);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    width: 1000px;
+    height: 50px;
+  }
+
+  /*display: flex;/*esto es para acomodar el archivo en el sitio web adecuadamente*/
+    /*min-height: 100px;/**esto es para colocar la altura de una tabla*/
+    /*background: #0bb354;/*Agreremos color de fondo de nuestro contenedor*/
+    /*border-color: rgb(6, 6, 6);/*pues solo le cambias el color*/
+    /*border-style: solid;/* aqui agrego el borde de mi contanedor dor como yo quiero que sea note por eso puswe solido*/
+    /*justify-content: space-between;/*esto sirve para tener para rellenar para separ los cuadros que es estan dentro con el triangulo mas grande*/
+    /*justify-content: center;/*esto coloca todos los contenedores en un orden centrado */
+    /*align-items:center;/*alinea los texto para en el centro del contenedor*/
+/*width: 1000;/*aqui se maneja la anchura de la tabla*/
+ /*flex-wrap: wrap;*/
+/*.squart_First{
+    align-items: baseline; 
+    width: 100px;
+    width: 1000px;
+    /*display: flex;/*Acomodamos de forma lineal la info*/
+/*margin: auto;/* esto perimite que cada bloque tenga un espacio de distancia con el otro*/
+/*margin: 30px;/* esto sirve para colocar un margen de 30 pixeles del sitio web para que no este muy pegado al navegador y tenga distancias con otros*/
+/*flex-direction: row; /* aqui estamos utilizando la funcion para acomodar en la parte derecha del sitio web*/
+/*border-style: solid;
+border-color: rgb(30, 195, 192);*/
+/*justify-content: center;/*esto hace que se alineen todos los textos se centren en el html*/
+/*flex-wrap: wrap;/*esto servira para darle formato al archivo cuando lo acerque de formas que se acomoden adecuadamente*/

@@ -1,0 +1,86 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+body{
+    margin: auto;
+}
+.Cabecita{
+    display: flex;
+    background-color: rgb(77, 179, 252);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    width: 750px;
+    height: 250px;
+}
+.Banner{
+    width: 500px;
+    height: 240px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    width: 240px;
+    height: 240px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Nav{
+    width: 750px;
+    height: 50px;
+    background-color: rgb(31, 198, 34);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+.Menu{
+    display: flex;
+    background-color: rgb(157, 157, 157);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    width: 750px;
+    height: 400px;
+}
+.Art{
+    width: 450px;
+    height: 390px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(195, 247, 127);
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.aside{
+    width: 280px;
+    height: 390px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(195, 247, 127);
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.patas{
+    display: flex;
+    background-color: rgb(238, 189, 42);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    width: 750px;
+    height: 50px;
+}

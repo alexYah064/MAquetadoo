@@ -1,0 +1,25 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+
+body {
+    background-image: url(../IMG/sol.jpg);
+    margin: auto;
+    width: 600px;
+    padding: 20px;
+}
+
+.Tormenta {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    text-align: center;
+    color: #1fb6a2;
+    margin-bottom: 20px;
+}
+
+.Ubic {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}

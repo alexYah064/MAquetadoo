@@ -1,0 +1,44 @@
+*{
+  margin: auto;
+  padding: 0px;
+}
+body{
+  margin: auto;
+  width: 600px;
+  padding: 20px;
+}
+.Datos{
+    width: 580px;
+    background-color: #c1c1c2;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+}
+input[type="text"],
+input[type="number"],
+select {
+    width: 100%; /* Establece el ancho al 100% del contenedor padre */
+    padding: 10px; /* Agrega un relleno interno de 10px */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Hace que el ancho incluya el padding y el borde */
+    margin-bottom: 10px; /* Espacio entre cada cuadro de texto */
+}
+
+/* Ajusta el ancho de cada elemento según tus necesidades */
+#fname, #name, #cnacs, #NPass {
+    width: 300px;
+}
+
+#Date, #Year, #NPass, #fechaemi, #Yearemi, #Yearven, #fechaven{
+    width: 97px; /* Puedes ajustar según el contenido y el diseño */
+}
+
+#Mess, #Messemi, #Mesven {
+    width: 97px; /* Puedes ajustar según el contenido y el diseño */
+}
+#Nacionalidad, #Paisemi, #Pais, #NPass{
+  width: 300px;
+}
+
